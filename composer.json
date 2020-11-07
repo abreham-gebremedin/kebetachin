@@ -54,7 +54,9 @@
        
     },
         "laravel": {
-            "dont-discover": []
+            "dont-discover": [
+                            "laravel/dusk"
+            ]
         },
         "symfony": {
             "allow-contrib": false,
